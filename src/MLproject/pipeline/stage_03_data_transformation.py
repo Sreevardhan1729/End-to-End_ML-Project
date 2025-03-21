@@ -1,3 +1,4 @@
+from pathlib import Path
 from mlProject.config.configuration import ConfigurationManager
 from mlProject.components.data_transformation import DataTransformation
 
